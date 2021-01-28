@@ -37,3 +37,7 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Data files for the competition
+test_v2.csv
+train_v2.csv
